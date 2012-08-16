@@ -175,7 +175,7 @@ header span.right-tail {
 }
 
 header h1 {
-  background-color: #ee5555;
+  background-color: #d64345;
   font-size: 4em;
   font-weight: 800;
   font-style: normal;
@@ -187,7 +187,7 @@ header h1 {
 }
 
 header h2 {
-  background-color: #ee5555;
+  background-color: #d64345;
   font: bold italic .5em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #314057;
   padding-bottom: 14px;
